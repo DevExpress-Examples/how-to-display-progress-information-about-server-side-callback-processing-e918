@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to display progress information about server-side callback processing
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e918/)**
+<!-- run online end -->
 
 
 <p>Sometimes a server-side operation, which is initiated via a callback request sent by the ASPxCallback control, may take much time (for instance, when a lot of data is obtained and being processed on the server). This example illustrates how you can inform your users about the server-side processing progress.</p>
